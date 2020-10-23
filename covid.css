@@ -1,0 +1,24 @@
+.parent{
+	background: whitesmoke;
+	justify-content: space-between;
+	display: flex;
+	padding: 10px 0;
+}
+.child1 ul li a{
+ text-decoration: none;
+font-size: 20px;
+color: green;
+padding: 0px 10px;
+text-transform: uppercase;
+}
+
+.child1 ul li {
+	display: inline-block;
+
+
+}
+.child2{
+	display: flex;
+	padding: 10px 0;
+
+}
